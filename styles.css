@@ -1,0 +1,21 @@
+i {
+    margin-right: 10px;
+  }
+
+  .Profile_image{
+	text-align: center;
+	padding: 20px 0;
+}
+
+body{
+	background: linear-gradient(to right, #3525af, #9153c9);
+}
+
+
+.jquery{
+  background: rgb(165, 99, 113);
+  padding: 20px;
+  border-radius: 30px;
+  display: none;
+}
+
